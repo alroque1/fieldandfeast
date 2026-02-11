@@ -25,6 +25,26 @@
         text-align: center;
     }
 
+    /*----------HEADER----------*/
+    header {
+        background-color: #1F2A44;
+    }
+
+    /*----------NAV----------*/
+    nav {
+        background-color: #E5C185;
+    }
+
+    /*----------MAIN----------*/
+    main {
+        background-color: #F8F4EC;
+    }
+
+    /*----------FOOTER----------*/
+    footer {
+        background-color: #1F2A44;
+    }
+
 
 /* ROOT VARIABLES */
 :root {
