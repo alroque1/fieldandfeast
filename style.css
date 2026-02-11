@@ -38,6 +38,11 @@
         align-items: center;
     }
 
+    h1 {
+        font-size: xx-large;
+        padding: 10px;
+    }
+
     /*----------NAV----------*/
     nav {
         background-color: #E5C185;
