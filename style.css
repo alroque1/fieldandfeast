@@ -1,5 +1,6 @@
 /* CSS BY ANGELA ROQUE */
 /*GIT 337: WEB CONTENT DESIGN*/
+/*ASSIGNMENT 3: FIELD & FEAST*/
 
 
 /* IMPORTED FONTS */
@@ -7,6 +8,22 @@
 
 
 /* CSS RESET */
+    /*----------PAGE----------*/
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    .page {
+        max-width: 1200px;
+        margin: 0 auto;
+        text-align: center;
+    }
 
 
 /* ROOT VARIABLES */
@@ -25,6 +42,28 @@
 
 
 /* GLOBAL STYLES (mobile first/small) */
+
+
+/*
+Breakpoints based on the mockups
+    Global style- small
+    Medium- min-width: 600px
+    Large- min-width: 900px
+    XL- min-width: 1200px
+*/
+
+
 /* MEDIA QUERY (medium) */
+@media screen and (min-width: 600px){
+
+}
+
 /* MEDIA QUERY (large) */
+@media screen and (min-width: 900px){
+
+}
+
 /* MEDIA QUERY (xl) */
+@media screen and (min-width: 1200px){
+
+}
