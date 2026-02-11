@@ -47,6 +47,18 @@
         background-color: #1F2A44;
     }
 
+    .footer-address {
+        color: #FAF9F6;
+    }
+
+    .footer-address a {
+        color: #E5C185;
+    }
+
+    .footer-social {
+        color: #E5C185;
+    }
+
 
 /* ROOT VARIABLES */
 :root {
