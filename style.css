@@ -47,7 +47,9 @@
 
         nav ul {
             display: flex;
+            justify-content: center;
             list-style-type: none;
+            text-decoration: none;
             padding: 10px 0;
         }
 
@@ -58,7 +60,6 @@
         nav li a {
             padding: 10px 20px;
             text-align: center;
-            text-decoration: none;
         }
 
         nav li a:hover {
