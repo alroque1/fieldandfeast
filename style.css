@@ -30,6 +30,8 @@
     header {
         background-color: #1F2A44;
         color: #FAF9F6;
+        margin: 0;
+        align-items: center;
     }
 
     /*----------NAV----------*/
