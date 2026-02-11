@@ -39,7 +39,6 @@
     nav {
         background-color: #E5C185;
         color: #1F2A44;
-        text-decoration: none;
         font-size: larger;
     }
 
@@ -55,6 +54,7 @@
         nav li a {
             padding: 10px 20px;
             text-align: center;
+            text-decoration: none;
         }
 
         nav li a:hover {
@@ -85,7 +85,7 @@
             text-decoration: none;
         }
 
-        .footer-social {
+        .footer-social a {
             color: #E5C185;
             text-decoration: none;
         }
