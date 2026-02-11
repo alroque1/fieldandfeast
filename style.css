@@ -22,9 +22,12 @@
     .page {
         max-width: 1200px;
         margin: 0 auto;
+        font: var(--font);
+    }
+
+    main {
         text-align: center;
         align-items: center;
-        font: var(--font);
     }
 
     /*----------HEADER----------*/
