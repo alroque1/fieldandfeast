@@ -38,6 +38,7 @@
     nav {
         background-color: #E5C185;
         color: #1F2A44;
+        text-decoration: none;
     }
 
         nav ul {
@@ -63,6 +64,10 @@
         background-color: #F8F4EC;
     }
 
+    #Gallery a {
+        text-decoration: none;
+    }
+
     /*----------FOOTER----------*/
     footer {
         background-color: #1F2A44;
@@ -74,10 +79,12 @@
 
         .footer-address a {
             color: #E5C185;
+            text-decoration: none;
         }
 
         .footer-social {
             color: #E5C185;
+            text-decoration: none;
         }
 
 
