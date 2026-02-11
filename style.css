@@ -28,11 +28,13 @@
     /*----------HEADER----------*/
     header {
         background-color: #1F2A44;
+        color: #FAF9F6;
     }
 
     /*----------NAV----------*/
     nav {
         background-color: #E5C185;
+        color: #1F2A44;
     }
 
     /*----------MAIN----------*/
@@ -52,9 +54,9 @@
     --midnight-blue: #1F2A44;
     --olive-green: #76885B;
     --champagne-gold: #E5C185;
-    --linen: #F8F4EC;
+    --linen: #F8F4EC;                   /*I used this linen white for background*/
     --dark-charcoal: #2B2B2B;
-    --soft-white: #FAF9F6;
+    --soft-white: #FAF9F6;              /*I used this soft white for font color*/
 
     /*FONTS*/
     --font: Playfair Display;
