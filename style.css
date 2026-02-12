@@ -108,7 +108,7 @@
         font-size: 25px;
     }
 
-        #About-Us {
+        #About-Us, #Offerings, #Gallery {
             align-items: center;
             border: none;
             border-bottom: #E5C185 solid 1px;
@@ -116,15 +116,7 @@
             width: 100%;
             text-align: left;
             padding: 20px;
-        }
-
-        #Offerings {
-            border: none;
-            border-bottom: #E5C185 solid 1px;
-            margin: 0 auto;
-            padding: 20px 0;
-            width: 100%;
-            text-align: left;
+            font-weight: normal;
         }
 
             #Offerings h2 {
@@ -143,14 +135,6 @@
                 border-radius: 10px;
                 box-shadow: 0 5px 6px #2B2B2B;
             }
-
-        #Gallery {
-            border: none;
-            border-bottom: #E5C185 solid 1px;
-            margin: 0 auto;
-            padding: 20px 0;
-            width: 100%;
-        }
 
             #Gallery a {
                 color: #F8F4EC;
