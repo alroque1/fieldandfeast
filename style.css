@@ -44,11 +44,11 @@
             margin: 0;
             padding: 10px;
             width: auto;
-            height: 50px;
+            height: 50%;
         }
 
         header h1 {
-            font-size: 65px;
+            font-size: 70px;
             padding: 10px;
         }
 
@@ -80,7 +80,7 @@
             text-align: center;
             color: #1F2A44;
             text-decoration: none;
-            font-weight: bold;
+            font-weight: bolder;
         }
 
     /*----------MAIN----------*/
@@ -106,11 +106,13 @@
         .footer-address a {
             color: #E5C185;
             text-decoration: none;
+            font-weight: bold;
         }
 
         .footer-social a {
             color: #E5C185;
             text-decoration: none;
+            font-weight: bold;
             padding: 15px 0;
         }
 
