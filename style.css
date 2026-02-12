@@ -31,6 +31,8 @@
         font-family: var(--font-main);
     }
 
+/*Try to remember to use grid and block*/
+
     /*----------HEADER----------*/
     header {
         background-color: #1F2A44;
@@ -41,10 +43,11 @@
     }
 
         header img {
-            margin: 0;
+            display: block;
+            margin: 0 auto;
             padding: 10px;
-            width: auto;
-            height: 25%;
+            width: 50%;
+            height: auto;
         }
 
         header h1 {
