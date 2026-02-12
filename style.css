@@ -153,6 +153,7 @@
                 margin: 0;
                 border-radius: 10px;
                 box-shadow: 0 5px 4px #2B2B2B;
+                font-style: italic;
             }
 
             #Gallery a {
