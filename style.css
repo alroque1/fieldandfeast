@@ -90,7 +90,7 @@
     /*----------MAIN----------*/
     main {
         background-color: #FAF9F6;
-        margin: 0;
+        margin: 0 auto;
         padding: 50px;
         max-width: 950px;
         align-items: center;
