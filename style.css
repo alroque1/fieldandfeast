@@ -163,6 +163,13 @@
             #Gallery img {
                 object-fit: cover;
                 display: block;
+                width: 100%;
+                height: auto;
+            }
+
+            #Gallery div p {
+                margin: o;
+                padding: 10px;
             }
 
             #Gallery a {
