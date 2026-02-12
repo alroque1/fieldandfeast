@@ -112,7 +112,8 @@
             border: none;
             border-bottom: #E5C185 solid 1px;
             text-align: left;
-            padding: 20px;
+            padding: 20px 0;
+            width: 100%;
         }
 
         #Offerings {
