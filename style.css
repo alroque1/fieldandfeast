@@ -98,6 +98,7 @@
 
     h2 {
         font-size: 30px;
+        font-weight: lighter;
     }
     
     p {
@@ -116,7 +117,6 @@
             width: 100%;
             text-align: left;
             padding: 20px;
-            font-weight: normal;
         }
 
             #Offerings h2 {
@@ -133,7 +133,7 @@
                 max-width: 950px;
                 margin: 20px;
                 border-radius: 10px;
-                box-shadow: 0 5px 6px #F8F4EC;
+                box-shadow: 0 5px 6px #76885B;
             }
 
             #Gallery a {
