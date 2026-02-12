@@ -111,21 +111,22 @@
             border-bottom: #E5C185 solid 1px;
             margin: 0 auto;
             width: 100%;
+            align-items: left;
         }
 
-    #Gallery a {
-        color: #F8F4EC;
-        background-color: #76885B;
-        text-decoration: none;
-        size: 18px;
-        display: block;
-        text-align: center;
-        padding: 20px 30px;
-        width: 100%;
-        max-width: 600px;
-        margin: 0 auto;
-        border-radius: 15px;
-    }
+        #Gallery a {
+            color: #F8F4EC;
+            background-color: #76885B;
+            text-decoration: none;
+            size: 18px;
+            display: block;
+            text-align: center;
+            padding: 20px 30px;
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            border-radius: 15px;
+        }
 
     /*----------FOOTER----------*/
     footer {
