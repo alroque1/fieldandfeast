@@ -37,15 +37,17 @@
         margin: 0;
         align-items: center;
         padding: 10px;
+        font: var(--font);
     }
 
         header image {
             margin: 0;
             padding: 10px;
+            size: 50%;
         }
 
         header h1 {
-            font-size: 100px;
+            font-size: 110px;
             padding: 10px;
         }
 
@@ -77,10 +79,6 @@
         nav li a {
             padding: 10px 20px;
             text-align: center;
-        }
-
-        nav li a:hover {
-            background-color: #2B2B2B;
         }
 
     /*----------MAIN----------*/
