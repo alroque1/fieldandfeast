@@ -112,7 +112,7 @@
             border-bottom: #E5C185 solid 1px;
             margin: 0 auto;
             width: 100%;
-            align-items: left;
+            text-align: left;
         }
 
         #Gallery a {
