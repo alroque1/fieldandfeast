@@ -105,6 +105,14 @@
         font-size: 25px;
     }
 
+        #About-Us {
+            border: none;
+            border-bottom: #E5C185 solid 1px;
+            margin: 0 auto;
+            width: 100%;
+            max-width: 100%;
+        }
+
     #Gallery a {
         color: #F8F4EC;
         background-color: #76885B;
