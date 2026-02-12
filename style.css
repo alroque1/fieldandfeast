@@ -75,7 +75,7 @@
             width: 100%;
             padding: 0;
             margin: 0 auto;
-            gap: 20px;
+            gap: 15px;
         }
 
         nav li a {
@@ -232,7 +232,7 @@
                         20px = header p
                         25px = nav and h3
                         30px = h2
-                        15px = p
+                        17px = p
     */
 
         /* NOTE from assignment!!
