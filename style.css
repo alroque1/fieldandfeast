@@ -128,10 +128,10 @@
                 color: #F8F4EC;
                 text-align: left;
                 display: block;
-                padding: 20px 0;
+                padding: 20px 20px;
                 width: 100%;
                 max-width: 950px;
-                margin: 20px;
+                margin: 0;
                 border-radius: 10px;
                 box-shadow: 0 5px 6px #76885B;
             }
