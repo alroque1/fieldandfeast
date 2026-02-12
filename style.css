@@ -33,7 +33,7 @@
     /*----------HEADER----------*/
     header {
         background-color: #1F2A44;
-        color: #FAF9F6;
+        color: #F8F4EC;
         margin: 0;
         align-items: center;
         padding: 15px;
@@ -44,7 +44,7 @@
             margin: 0;
             padding: 10px;
             width: auto;
-            height: 50%;
+            height: 25%;
         }
 
         header h1 {
@@ -84,11 +84,11 @@
 
     /*----------MAIN----------*/
     main {
-        background-color: #F8F4EC;
+        background-color: #FAF9F6;
     }
 
     #Gallery a {
-        color: #FAF9F6;
+        color: #F8F4EC;
         text-decoration: none;
     }
 
@@ -98,7 +98,7 @@
     }
 
         .footer-address {
-            color: #FAF9F6;
+            color: #F8F4EC;
         }
 
         .footer-address a {
@@ -118,9 +118,9 @@
     --midnight-blue: #1F2A44;
     --olive-green: #76885B;
     --champagne-gold: #E5C185;
-    --linen: #F8F4EC;                   /*I used this linen white for background*/
+    --linen: #F8F4EC;                   /*I used this linen white for font color*/
     --dark-charcoal: #2B2B2B;
-    --soft-white: #FAF9F6;              /*I used this soft white for font color*/
+    --soft-white: #FAF9F6;              /*I used this soft white for background*/
 
     /*FONTS*/
     --font: Playfair Display;
