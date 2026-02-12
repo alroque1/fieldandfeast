@@ -61,25 +61,24 @@
     /*----------NAV----------*/
     nav {
         background-color: #E5C185;
-        color: #1F2A44;
         font-size: 20px;
-        text-decoration: none;
     }
 
         nav ul {
             display: flex;
             justify-content: center;
-            list-style-type: none;
-            padding: 10px 0;
+            list-style: none;
         }
 
         nav li {
             padding: 10px 0;
         }
 
-        nav li a {
+        nav a {
             padding: 10px 50px;
             text-align: center;
+            color: #1F2A44;
+            text-decoration: none;
         }
 
     /*----------MAIN----------*/
