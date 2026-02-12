@@ -89,7 +89,6 @@
 
     /*----------MAIN----------*/
     main {
-        background-color: #FAF9F6;
         margin: 0 auto;
         padding: 50px;
         max-width: 950px;
@@ -136,7 +135,7 @@
                 width: 100%;
                 margin: 20px;
                 border-radius: 10px;
-                box-shadow: 0 5px 6px #76885B;
+                box-shadow: 0 5px 4px #76885B;
             }
 
             .The-Field-Feast-Monthly-Basket ul {
@@ -153,7 +152,7 @@
                 text-align: center;
                 margin: 0;
                 border-radius: 10px;
-                box-shadow: 0 5px 6px #2B2B2B;
+                box-shadow: 0 5px 4px #2B2B2B;
             }
 
             #Gallery a {
