@@ -92,6 +92,7 @@
         margin: 0;
         padding: 50px;
         max-width: 1200px;
+        align-items: center;
     }
 
     h2 {
