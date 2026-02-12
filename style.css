@@ -147,6 +147,7 @@
             grid-template-columns: repeat 1fr;
             gap: 20px;
             text-align: left;
+            align-items: center;
         }
 
             .tomatoes, .olive-oil, .table-setting, .chef-plating, .basket {
