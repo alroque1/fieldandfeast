@@ -222,9 +222,14 @@
     --font-main: 'Playfair Display', serif;
 }
 
-
-/* GLOBAL STYLES (mobile first/small) */
-
+    /* ANOTHER SELF NOTE for page font size consistency!!!
+                        For font sizes I used
+                        70px = h1
+                        20px = header p
+                        25px = nav and h3
+                        30px = h2
+                        15px = p
+    */
 
         /* NOTE from assignment!!
             Breakpoints based on the mockups
@@ -233,6 +238,8 @@
                 Large- min-width: 900px
                 XL- min-width: 1200px
         */
+
+/* GLOBAL STYLES (mobile first/small) */
 
 
 /* MEDIA QUERY (medium) */
