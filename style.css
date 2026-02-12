@@ -144,7 +144,7 @@
 
         #Gallery {
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
+            grid-template-columns: repeat 1fr;
             gap: 20px;
             text-align: center;
         }
@@ -157,6 +157,13 @@
                 border-radius: 10px;
                 box-shadow: 0 5px 4px #2B2B2B;
                 font-style: italic;
+                display: grid;
+                grid-template-rows: 1fr auto;
+            }
+
+            #Gallery img {
+                object-fit: cover;
+                display: block;
             }
 
             #Gallery a {
