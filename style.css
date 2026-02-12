@@ -144,19 +144,27 @@
                 box-shadow: 0 5px 6px #2B2B2B;
             }
 
-        #Gallery a {
-            color: #F8F4EC;
-            background-color: #76885B;
-            text-decoration: none;
-            size: 18px;
-            display: block;
-            text-align: center;
-            padding: 20px 30px;
-            width: 100%;
-            max-width: 950px;
+        #Gallery {
+            border: none;
+            border-bottom: #E5C185 solid 1px;
             margin: 0 auto;
-            border-radius: 10px;
+            padding: 20px 0;
+            width: 100%;
         }
+
+            #Gallery a {
+                color: #F8F4EC;
+                background-color: #76885B;
+                text-decoration: none;
+                size: 18px;
+                display: block;
+                text-align: center;
+                padding: 20px 30px;
+                width: 100%;
+                max-width: 950px;
+                margin: 0 auto;
+                border-radius: 10px;
+            }
 
     /*----------FOOTER----------*/
     footer {
