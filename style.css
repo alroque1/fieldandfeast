@@ -115,6 +115,26 @@
             text-align: left;
         }
 
+        #Offerings {
+            border: none;
+            border-bottom: #E5C185 solid 1px;
+            margin: 0 auto;
+            width: 100%;
+            text-align: left;
+        }
+
+            .Artisan-Provisions, .Exclusive-Dining-Experiences, .The-Field-Feast-Monthly-Basket {
+                background-color: #76885B;
+                color: #F8F4EC;
+                text-align: left;
+                display: block;
+                padding: 20px;
+                width: 100%;
+                max-width: 950px;
+                margin: 0 auto;
+                border-radius: 10px;
+            }
+
         #Gallery a {
             color: #F8F4EC;
             background-color: #76885B;
@@ -124,7 +144,7 @@
             text-align: center;
             padding: 20px 30px;
             width: 100%;
-            max-width: 600px;
+            max-width: 950px;
             margin: 0 auto;
             border-radius: 10px;
         }
