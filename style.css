@@ -143,7 +143,10 @@
             }
 
         #Gallery {
-            display: block;
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            text-align: center;
         }
 
             .tomatoes, .olive-oil, .table-setting, .chef-plating, .basket {
