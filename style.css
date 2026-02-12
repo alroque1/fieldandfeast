@@ -91,6 +91,7 @@
         background-color: #FAF9F6;
         margin: 0;
         padding: 50px;
+        max-width: 900px;
     }
 
     h2 {
@@ -110,7 +111,6 @@
             border-bottom: #E5C185 solid 1px;
             margin: 0 auto;
             width: 100%;
-            max-width: 900px;
         }
 
     #Gallery a {
