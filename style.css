@@ -90,6 +90,19 @@
     main {
         background-color: #FAF9F6;
         margin: 0;
+        padding: 20px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+    
+    p {
+        font-size: 15px;
+    }
+
+    h3 {
+        font-size: 25px;
     }
 
     #Gallery a {
