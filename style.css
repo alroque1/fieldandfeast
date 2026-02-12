@@ -117,6 +117,13 @@
         color: #F8F4EC;
         background-color: #76885B;
         text-decoration: none;
+        size: 18px;
+        display: block;
+        text-align: center;
+        padding: 20px 30px;
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
     }
 
     /*----------FOOTER----------*/
