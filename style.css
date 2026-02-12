@@ -23,6 +23,7 @@
         max-width: 1200px;
         margin: 0 auto;
         font-family: var(--font-main);
+        color: #2B2B2B;
     }
 
     body {
@@ -122,6 +123,10 @@
             width: 100%;
             text-align: left;
         }
+
+            #Offerings h2 {
+                color: #2B2B2B
+            }
 
             .Artisan-Provisions, .Exclusive-Dining-Experiences, .The-Field-Feast-Monthly-Basket {
                 background-color: #76885B;
