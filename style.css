@@ -90,7 +90,7 @@
     main {
         background-color: #FAF9F6;
         margin: 0;
-        padding: 20px;
+        padding: 50px;
     }
 
     h2 {
@@ -110,7 +110,7 @@
             border-bottom: #E5C185 solid 1px;
             margin: 0 auto;
             width: 100%;
-            max-width: 100%;
+            max-width: 600px;
         }
 
     #Gallery a {
@@ -124,6 +124,7 @@
         width: 100%;
         max-width: 600px;
         margin: 0 auto;
+        border-radius: 15px;
     }
 
     /*----------FOOTER----------*/
