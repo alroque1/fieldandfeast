@@ -43,7 +43,7 @@
             margin: 0;
             padding: 10px;
             width: auto;
-            height: 25%;
+            height: 50px;
         }
 
         header h1 {
@@ -52,7 +52,7 @@
         }
 
         header p {
-            font-size: 20px;
+            font-size: 25px;
             font-style: italic;
             padding: 10px;
         }
@@ -60,11 +60,12 @@
     /*----------NAV----------*/
     nav {
         background-color: #E5C185;
-        font-size: 20px;
+        font-size: 25px;
     }
 
         nav ul {
-            display: flex;
+            display: grid;
+            grid-template-columns: repeat (3, 1fr);
             justify-content: center;
             list-style: none;
         }
@@ -78,6 +79,7 @@
             text-align: center;
             color: #1F2A44;
             text-decoration: none;
+            font-weight: bold;
         }
 
     /*----------MAIN----------*/
