@@ -40,19 +40,20 @@
         font: var(--font);
     }
 
-        header image {
+        header img {
             margin: 0;
             padding: 10px;
-            size: 50%;
+            width: 50%;
+            height: auto;
         }
 
         header h1 {
-            font-size: 80px;
+            font-size: 60px;
             padding: 10px;
         }
 
         header p {
-            font-size: 25px;
+            font-size: 20px;
             font-style: italic;
             padding: 10px;
         }
@@ -61,7 +62,7 @@
     nav {
         background-color: #E5C185;
         color: #1F2A44;
-        font-size: 25px;
+        font-size: 20px;
         text-decoration: none;
     }
 
