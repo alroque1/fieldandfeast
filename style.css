@@ -266,7 +266,6 @@
 
     .Artisan-Provisions, .Exclusive-Dining-Experiences, .The-Field-Feast-Monthly-Basket {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
     }
 
     .The-Field-Feast-Monthly-Basket {
