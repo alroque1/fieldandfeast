@@ -260,11 +260,12 @@
         text-align: center;
     }
 
-    .Artisan-Provisions, .Exclusive-Dining-Experiences, .The-Field-Feast-Monthly-Basket {
+    #Offerings {
         display: grid;
+        grid-template-columns: repeat(2, 1fr);
     }
 
-    .The-Field-Feast-Monthly-Basket {
+    #Offerings h2, .The-Field-Feast-Monthly-Basket {
         grid-column: 1 / -1;
     }
 
