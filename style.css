@@ -117,7 +117,8 @@
         }
 
         #Offerings {
-            display: block;
+            display: grid;
+            gap: 20px;
         }
 
             #Offerings h2 {
@@ -250,7 +251,10 @@
         */
 
 /* GLOBAL STYLES (mobile first/small) */
-
+main {
+    display: grid;
+    gap: 20px;
+}
 
 /* MEDIA QUERY (medium) */
 @media screen and (min-width: 600px){
