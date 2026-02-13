@@ -326,4 +326,18 @@ main {
         margin: 0;
         text-align: center;
     }
+
+    #Gallery {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+        }
+
+            #Gallery h2, #Gallery p {
+                grid-column: 1 / -1;
+            }
+
+            .tomatoes, .olive-oil, .table-setting, .chef-plating, .basket {
+                width: auto;
+            }
 }
