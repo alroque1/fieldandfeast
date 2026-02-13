@@ -265,7 +265,11 @@
         grid-template-columns: repeat(2, 1fr);
         gap: 10px;
     }
-    
+
+    .The-Field-Feast-Monthly-Basket {
+        grid-column: 1 / -1;
+    }
+
 }
 
 /* MEDIA QUERY (large) */
