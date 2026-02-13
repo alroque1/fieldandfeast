@@ -160,6 +160,10 @@
                 grid-template-rows: 1fr auto;
             }
 
+            #Gallery h2 {
+                padding: 0;
+            }
+
             #Gallery img {
                 object-fit: cover;
                 display: block;
