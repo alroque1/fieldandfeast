@@ -275,6 +275,20 @@
                 margin: 0;
             }
 
+        #Gallery {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+            #Gallery h2, #Gallery p {
+                grid-column: 1 / -1;
+            }
+
+            .tomatoes, .olive-oil, .table-setting, .chef-plating, .basket {
+                width: auto;
+                margin: 0;
+            }
 }
 
 /* MEDIA QUERY (large) */
