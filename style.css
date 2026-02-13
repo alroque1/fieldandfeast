@@ -131,7 +131,7 @@
                 display: block;
                 padding: 20px;
                 width: 100%;
-                margin: 20px 0;
+                margin: 0;
                 border-radius: 10px;
                 box-shadow: 0 5px 4px #76885B;
             }
@@ -263,7 +263,7 @@
         #Offerings {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
-            gap: 10px;
+            gap: 20px;
         }
 
             #Offerings h2, .The-Field-Feast-Monthly-Basket {
@@ -278,7 +278,7 @@
         #Gallery {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
-            gap: 10px;
+            gap: 20px;
         }
 
             #Gallery h2, #Gallery p {
